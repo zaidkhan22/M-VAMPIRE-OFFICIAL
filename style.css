@@ -19,8 +19,6 @@ body {
     top: 10;
     left: 10;
     display: flex;
-    justify-content: space-between;
-    align-items: center;
     width: 90%;
     padding: 0px 50px;
     z-index: 1;
